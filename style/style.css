@@ -67,13 +67,53 @@ font-weight: bold;
 .banner-description{
     color: #757575;
     font-size: 18px;
-    font-weight: ;
+    font-weight: 200;
 }
 .banner-picture{
 
 width: 584px;
 
 
+}
+
+.section-titile{
+
+    color: #181818;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+
+.section-description{
+    color: #757575;
+    font-size: 18px;
+    font-weight: 200;
+}
+
+.secondary-bg{
+
+
+    background-color: #FFF8F3;
+}
+.about{
+
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+.main{
+
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-items{
+
+    display:flex;
+    justify-content: space-around;
+}
+.item-description{
+    font-weight:600 ;
 }
 nav ul{
 
